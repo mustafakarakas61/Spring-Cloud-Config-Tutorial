@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "microservice-one",
+      "type": "com.mustafa.microserviceone.Configuration",
+      "sourceType": "com.mustafa.microserviceone.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "microservice-one.value",
+      "type": "java.lang.String",
+      "sourceType": "com.mustafa.microserviceone.Configuration"
+    }
+  ],
+  "hints": []
+}
